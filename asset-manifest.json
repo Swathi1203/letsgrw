@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/letsgrw/static/css/main.c4552d51.css",
+    "main.js": "/letsgrw/static/js/main.fc912f9a.js",
+    "index.html": "/letsgrw/index.html",
+    "main.c4552d51.css.map": "/letsgrw/static/css/main.c4552d51.css.map",
+    "main.fc912f9a.js.map": "/letsgrw/static/js/main.fc912f9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4552d51.css",
+    "static/js/main.fc912f9a.js"
+  ]
+}
